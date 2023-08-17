@@ -6,8 +6,6 @@ This project uses an Arduino Uno, a soil moisture sensor, and a DC motor to meas
 * Arduino Uno
 * Soil moisture sensor
 * DC motor
-* Breadboard
-* Jumper wires
 * Resistor (100 ohm)
 
 ## Instructions
@@ -24,14 +22,3 @@ This project uses an Arduino Uno, a soil moisture sensor, and a DC motor to meas
 3. Upload the code to the Arduino.
 
 4. Test the project by placing the soil moisture sensor in dry soil. The motor should start if the moisture level is low.
-
-## Code
-
-The code for this project is written in Python. It can be found in the `code.` file.
-
-## README.txt
-
-This file provides instructions on how to use this project.
-
-
-I hope this helps! Let me know if you have any other questions.
